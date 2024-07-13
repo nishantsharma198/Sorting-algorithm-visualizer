@@ -2,7 +2,7 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer](nishantsharma198.github.io/Sorting-algorithm-visualizer/) 
+**Live-** [sorting visualizer](https://nishantsharma198.github.io/Sorting-algorithm-visualizer/) 
 
 **Code-** [sort visualizer code](https://github.com/nishantsharma198/Sorting-algorithm-visualizer?tab=readme-ov-file)
 
